@@ -1,2 +1,2 @@
 # demo
-create for practicing git braches
+create for practicing git braches.
